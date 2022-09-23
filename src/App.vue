@@ -30,9 +30,19 @@
     </div>
   </nav>
 
-  <main>
+  <main class="mx-auto">
     <RouterView />
   </main>
 </template>
 
-<style scoped lang="scss"></style>
+<style scoped lang="scss">
+nav {
+  padding-left: 8px;
+}
+
+main {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 75%;
+}
+</style>

@@ -1,5 +1,6 @@
 {
   "editor.tabSize": 2,
   "vitest.enable": true,
-  "vitest.commandLine": "npx vitest --environment jsdom"
+  "vitest.commandLine": "npx vitest --environment jsdom",
+  "typescript.tsdk": "node_modules\\typescript\\lib"
 }
