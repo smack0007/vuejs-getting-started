@@ -23,6 +23,15 @@
             <RouterLink class="nav-link" to="/">Home</RouterLink>
           </li>
           <li class="nav-item">
+            <RouterLink class="nav-link" to="/apple">Apple</RouterLink>
+          </li>
+          <li class="nav-item">
+            <RouterLink class="nav-link" to="/microsoft">Microsoft</RouterLink>
+          </li>
+          <li class="nav-item">
+            <RouterLink class="nav-link" to="/samsung">Samsung</RouterLink>
+          </li>
+          <li class="nav-item">
             <RouterLink class="nav-link" to="/about">About</RouterLink>
           </li>
         </ul>
